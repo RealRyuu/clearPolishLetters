@@ -1,0 +1,6 @@
+C:\Code\clearPolishLetters\clearPolishLetters\bin\Debug\clearPolishLetters.exe.config
+C:\Code\clearPolishLetters\clearPolishLetters\bin\Debug\clearPolishLetters.exe
+C:\Code\clearPolishLetters\clearPolishLetters\bin\Debug\clearPolishLetters.pdb
+C:\Code\clearPolishLetters\clearPolishLetters\obj\Debug\clearPolishLetters.csprojResolveAssemblyReference.cache
+C:\Code\clearPolishLetters\clearPolishLetters\obj\Debug\clearPolishLetters.exe
+C:\Code\clearPolishLetters\clearPolishLetters\obj\Debug\clearPolishLetters.pdb
